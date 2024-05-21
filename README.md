@@ -1,1 +1,1 @@
-simple addition of new redme file in master branch.
+major changes in new redme file in master branch.
